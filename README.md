@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 ---
 
 ### 🔥 &nbsp; My Status :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vishalk17&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vishalk17&theme=dark&background=000000&count_private=true)](https://git.io/streak-stats)
 
-![vishalk17's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishalk17&show_icons=true&theme=dark)
+![vishalk17's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishalk17&show_icons=true&theme=dark&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalk17&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
