@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
 - 🌱 My name is vishal 
-- 📫 I am just learner/explorer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- 📫 I am just learner/explorer/DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - ⚡ In my free time I usually explore things and read tech articles.
 - 😄 Fun fact: I like to eat kurum kurum while working ://
